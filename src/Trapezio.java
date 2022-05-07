@@ -33,7 +33,7 @@ public class Trapezio
 	 * 
 	 * @return area ritorna area del trapezio
 	 */
-	private float calcolaArea()
+	public float calcolaArea()
 	{
 		float area;
 		area = B+b*h/2;
