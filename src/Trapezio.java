@@ -7,7 +7,7 @@
  * </UL>
  * 
  * @author <h1>BoccoJacopo</h1>
- * @version 1.0
+ * @version 2.0
  *
  */
 public class Trapezio 
